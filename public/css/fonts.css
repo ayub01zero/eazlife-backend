@@ -1,0 +1,17 @@
+/* public/css/fonts.css */
+@font-face {
+    font-family: 'Speda Regular';
+    src: url('../fonts/Speda Regular.ttf');
+    font-style: normal;
+}
+
+
+body:lang(ar) {
+    font-family: "Speda Regular" !important;
+}
+
+
+body:lang(ku) {
+    font-family: "Speda Regular"!important;
+}
+
